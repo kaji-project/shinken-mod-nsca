@@ -1,0 +1,3 @@
+module/* /usr/share/pyshared/shinken/modules/shinken-mod-nsca
+doc/* /usr/share/doc/shinken-mod-nsca
+etc/* /etc/shinken
