@@ -1,3 +1,3 @@
-module/* /usr/share/pyshared/shinken/modules/shinken-mod-nsca
+module/* /usr/share/pyshared/shinken/modules/nsca
 doc/* /usr/share/doc/shinken-mod-nsca
-etc/* /etc/shinken
+debian/etc/modules/nsca.cfg /etc/shinken/modules/nsca.cfg
