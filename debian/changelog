@@ -1,8 +1,11 @@
 shinken-mod-nsca (1.4.1-1) unstable; urgency=medium
 
+  [ Thibault Cohen ]
   * New upstream version 1.4.1
   * Add replaces shinken-module-arbiter-nsca
   * Add custom config files
   * Closes: #760249
+  [ Mathieu Parent ]
+  * Architecture: all
 
- -- Thibault Cohen <thibault.cohen@savoirfairelinux.com>  Wed, 20 Aug 2014 10:58:42 -0400
+ -- Mathieu Parent <sathieu@debian.org>  Fri, 12 Sep 2014 06:53:03 +0200
