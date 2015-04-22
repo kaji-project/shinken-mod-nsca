@@ -1,5 +1,13 @@
 shinken-mod-nsca (1.4.1-1) unstable; urgency=medium
 
+  [ Sebastien Coavoux ]
+  * Update packaging
+  * Enhance test files
+
+ -- Sebastien Coavoux <sebastien.coavoux@savoirfairelinux.com> Wed, 22 Apr 2015 11:11:42 -0400 
+
+shinken-mod-nsca (1.4.1-1) unstable; urgency=medium
+
   [ Thibault Cohen ]
   * New upstream version 1.4.1
   * Add replaces shinken-module-arbiter-nsca
